@@ -1,1 +1,2 @@
-# c25-Create-boats-
+# PRO-C25-SA
+boilerplate code for student activituy
